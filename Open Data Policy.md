@@ -33,19 +33,15 @@ NOW, THEREFORE, the three undersigned Selectpeople of Castine, Maine, by virtue 
 
 **a.** An Open Data Advisory Group shall be chaired by one selectperson, and include open data coordinators from each city agency.
 
-**b.** The Open Data Advisory Group shall assist the town employees in the creation of the annual open data compliance report required under paragraph 6.
+**b.** The Open Data Advisory Group shall assist the town employees in the creation of the annual open data compliance report required under paragraph 5.
 
-**4. Open data coordinator**
-
-**a.** The head of each Agency shall designate from within the City agency an open data coordinator, who shall (i) assist the Agency in implementing its duties under this Order; (ii) serve on the Open Data Advisory Group; (iii) upon request, meet with the Open Data Advisory Group to discuss any matter pertaining to implementation of this Order; and (iv) assist the Department of Information Technolgoy in the preparation of the annual open data compliance report required under paragraph 6 of this Order.  
-
-**5. Data inventory**
+**4. Data inventory**
 
 **a.** Within 90 days of the effective date of this Order, a complete inventory of existing data within all Agencies shall be cataloged in a public manner, and will clearly articulate (i) if the data is available in a digital form; (ii) if the data is Machine readable; (iii) the Agency that is responsible for the data; (iv) if the data and metadata are clearly documented; and (v) if the data is available on the open data portal, and if not, reason(s) why.
 
 **b.** The data inventory shall be regularly updated and available on the Town's open data portal.
 
-**6. Annual open data compliance report**
+**5. Annual open data compliance report**
 
 **a.** Within 360 days of the effective date of this Order, and no later than March 1 of each year thereafter, the chair of the Open Data Advisory Group shall submit to the Select Board an annual open data compliance report prepared with the assistance of the Open Data Advisory Group.
 
@@ -53,10 +49,10 @@ NOW, THEREFORE, the three undersigned Selectpeople of Castine, Maine, by virtue 
 
 **c.** The report shall be made available on the Town data portal.
 
-**7. Technology-related procurements**
+**6. Technology-related procurements**
 
 **a.** The Chair of the Open Data Advisory Group shall work to develop contract guidelines to promote open data policies in technology-related procurements.  These guidelines shall promote the Town’s open data policies, including, where appropriate, requirements to post data on the Town's open data portal or to make data available through other means.
 
-**Section 8. Open data terms of use**
+**7. Open data terms of use**
 
 **a.** The Open Data Advisory Group will help with the acquisition of a license that conforms to the principles set forth in the [Open Knowledge Definition](http://opendefinition.org/od/), under which to publish the data and make the license clearly known on the Town's data portal.
