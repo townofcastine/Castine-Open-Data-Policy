@@ -1,4 +1,4 @@
-City of Chattanooga's Open Data Policy
+Town of Castine's Open Data Policy
 ========================================================
 
 ### **Timeline**
